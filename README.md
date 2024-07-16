@@ -7,7 +7,8 @@ This project demonstrates an AI-generated version of President Biden answering q
 ## Prerequisites
 
 - Python 3.x
-- OpenAI API key
+- Add OpenAI API key
+- Add TelegramBot Token
 
 ## Installation
 
